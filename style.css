@@ -1,3 +1,10 @@
 body {
     margin: 0;
 }
+.div1 {
+    width: 200px;
+}
+#btn1{
+    width: auto;
+    height: 40;
+}
