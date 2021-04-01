@@ -1,3 +1,14 @@
 body {
     margin: 0;
 }
+
+.mar {
+    width: 100%;
+    background-color: blue;
+    color: white;
+}
+
+#lblmain {
+    margin-top: 50px;
+    font-size: 30px;
+}
