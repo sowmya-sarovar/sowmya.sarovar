@@ -10,5 +10,27 @@ body {
 
 #lblmain {
     margin-top: 50px;
-    font-size: 30px;
+    font-size: 37px;
+    margin-bottom: 50px;
+    font-family: 'Playfair Display', serif;
+}
+
+#lblsec {
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Anton', sans-serif;
+}
+
+#lblcap {
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Anton', sans-serif;
+}
+
+#txtsec {
+    margin-bottom: 60px;    
+}
+
+#txtcap {
+    margin-bottom: 60px;
 }
