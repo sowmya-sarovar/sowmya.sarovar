@@ -1,0 +1,21 @@
+#sp-menu {
+	margin-left: -100px;
+}
+
+#www {
+	width: 35px;
+	height: 35px;
+	margin-top: -10px;
+}
+
+/*#navbgc {
+	background-color: #008C71;
+}*/
+
+/*#myNavbar #ulbar li a {
+	color: aquamarine;
+}*/
+
+#myNavbar #ulbar li a:hover {
+	color: white;
+}
